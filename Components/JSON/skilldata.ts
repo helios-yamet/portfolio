@@ -12,11 +12,11 @@ export const skilldata = () => [
       },
       {
         title: "Java",
-        icon: "https://img.icons8.com/?size=48&id=Pd2x9GWu9ovX&format=png",
+        icon: "https://img.icons8.com/?size=48&id=GPfHz0SM85FX&format=gif",
       },
       {
         title: "JavaScript",
-        icon: "https://img.icons8.com/color/144/000000/javascript--v1.png",
+        icon: "https://img.icons8.com/?size=48&id=tGvHBPJaKqEd&format=gif",
       },
       {
         title: "TypeScript",
@@ -24,7 +24,7 @@ export const skilldata = () => [
       },
       {
         title: "Python",
-        icon: "https://img.icons8.com/color/48/null/python--v1.png",
+        icon: "https://img.icons8.com/?size=48&id=Rc0Xn5AtE8kX&format=gif",
       },
       {
         title: "Ruby",
@@ -37,7 +37,7 @@ export const skilldata = () => [
     skills: [
       {
         title: "React",
-        icon: "https://img.icons8.com/color/144/000000/react-native.png",
+        icon: "https://img.icons8.com/?size=40&id=t5K2CR8feVdX&format=gif",
       },
       {
         title: "Angular",
@@ -96,10 +96,6 @@ export const skilldata = () => [
         icon: "https://img.icons8.com/color/144/000000/sass.png",
       },
       {
-        title: "Java",
-        icon: "https://img.icons8.com/?size=80&id=lTKW3iI3wIT0&format=png",
-      },
-      {
         title: "Spring Boot",
         icon: "https://img.icons8.com/?size=48&id=90519&format=png",
       },
@@ -109,7 +105,7 @@ export const skilldata = () => [
       },
       {
         title: "GraphQL",
-        icon: "https://img.icons8.com/?size=80&id=jYptskVH8m0Z&format=png",
+        icon: "https://img.icons8.com/?size=80&id=o415ZlFwYWYe&format=png",
       },
     ]
   },
@@ -121,7 +117,7 @@ export const skilldata = () => [
         icon: "https://img.icons8.com/?size=80&id=rgPSE6nAB766&format=png",
       },
       {
-        title: "PostgresSQL",
+        title: "PostgreSQL",
         icon: "https://img.icons8.com/color/48/null/postgreesql.png",
       },
       {
@@ -147,7 +143,7 @@ export const skilldata = () => [
       },
       {
         title: "GitHub",
-        icon: "https://img.icons8.com/fluency/144/000000/github.png",
+        icon: "https://img.icons8.com/?size=48&id=akG4VRhAoSii&format=gif",
       },
       {
         title: "Bitbucket",
