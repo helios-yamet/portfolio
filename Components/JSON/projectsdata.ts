@@ -21,7 +21,7 @@ export const projectsdata = () => [
     description: `Share your ideas and stories with the world on AyeDot - the platform for discovering and sharing exciting, informative content in form of multimedia short format mini blogs`,
     link: "/ayedot.com",
     github: null,
-    logo: "https://www.rajsavaliya.com/_next/image?url=%2FAyeHighLogo.webp&w=48&q=75",
+    logo: "ayelogo.jpg",
     features: [
       "Easy Creation and Publishing of Short Format Mini Blogs using easy to user block based editor",
       "Creator Room for better content creation process",
