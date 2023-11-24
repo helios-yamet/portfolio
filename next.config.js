@@ -8,6 +8,10 @@ module.exports = {
     PROJECT_ROOT: __dirname,
   },
   images: {
+    unoptimized: true,
     domains: ["localhost", "vercel.app", "ayedot.com", "render.com"],
   },
+  experimental: {
+    buildOptimizer: false,
+  }
 };
