@@ -318,21 +318,6 @@ export const SideSecondPanel: React.FC<IProps> = (props: any) => {
                   </li>
                   <li
                     onClick={() => {
-                      router.push("/Blogs");
-                      isTabletOrMobile ? props.closeSideMenu() : null;
-                    }}
-                    className={` smallSide ${
-                      activeCurrentSubLink === "Blogs" ? "active" : ""
-                    }`}
-                  >
-                    <SidePanelSubLink
-                      name="Blogs.py"
-                      link="/Blogs"
-                      icon={<span className="icons8-typescript"></span>}
-                    />
-                  </li>
-                  <li
-                    onClick={() => {
                       router.push("/Gaming");
                       isTabletOrMobile ? props.closeSideMenu() : null;
                     }}

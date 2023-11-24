@@ -153,24 +153,6 @@ const Hobbies: NextPage = () => {
                 </div>
                 <div className="grid grid-cols-3 pt-5  sm:grid-cols-4 md:grid-cols-4 lg:grid-cols-4 xl:grid-cols-5 gap-4">
                   <div className="cursor-pointer block p-1 rounded-md transition-colors hover:bg-gray-50 hover:bg-opacity-30">
-                    <Link href="/Blogs">
-                      <div>
-                        <div className="bg-white rounded-md mb-2 flex justify-center items-center">
-                          <img
-                            className=" p-3 rounded-md"
-                            src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-blogging-free-time-wanicon-lineal-color-wanicon.png"
-                            alt="Blogging icon"
-                            width="80"
-                            height="auto"
-                          />
-                        </div>
-                        <h2 className="text-white text-center font-semibold">
-                          Blogging
-                        </h2>{" "}
-                      </div>
-                    </Link>
-                  </div>
-                  <div className="cursor-pointer block p-1 rounded-md transition-colors hover:bg-gray-50 hover:bg-opacity-30">
                     <Link href="/Gaming">
                       <div>
                         <div className="bg-white rounded-md mb-2 flex justify-center items-center">

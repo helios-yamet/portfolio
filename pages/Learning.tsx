@@ -38,7 +38,16 @@ const Learning: NextPage = () => {
                 <div className="text-lg text-white mb-4 flex items-center">
                   <div className="md:flex items-cente text0 ">
                     <h1 className="lg:text-5xl text-gray-100 font-bold leading-tight text-3xl">
-                      Page is Under Development...
+                      Goal Is To Be a Senior
+                    </h1>
+                    <h1 className="lg:text-5xl text-gray-100 font-bold leading-tight text-3xl">
+                      Grow My Skills
+                    </h1>
+                    <h1 className="lg:text-5xl text-gray-100 font-bold leading-tight text-3xl">
+                      Grow My Career
+                    </h1>
+                    <h1 className="lg:text-5xl text-gray-100 font-bold leading-tight text-3xl">
+                      Grow My Community
                     </h1>
                   </div>
                 </div>

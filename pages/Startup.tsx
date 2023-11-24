@@ -41,6 +41,20 @@ const Startup: NextPage = () => {
                     <h1 className="pl-3 text-4xl font-bold block w-full py-2  lg:inline">
                       Under Development
                     </h1>
+                    <ul>
+                      <li>I wanna grow my career</li>
+                      <li>Contribute to the success</li>
+                      <li>Clear and compelling vision</li>
+                      <li>Rapid growth and change</li>
+                      <li>Develop a unique value proposition</li>
+                      <li>Build a strong team with diverse skills and a shared passion for the startup's mission</li>
+                      <li>Collaborative and dynamic environment</li>
+                      <li>focus on customer feedback and continuous improvement</li>
+                      <li>Build and test product</li>
+                      <li>High level of responsibility</li>
+                      <li>Continuous learning and personal growth</li>
+                      <li>Building a network</li>
+                    </ul>
                   </div>
                 </div>
               </div>
