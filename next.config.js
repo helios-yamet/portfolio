@@ -8,6 +8,6 @@ module.exports = {
     PROJECT_ROOT: __dirname,
   },
   images: {
-    domains: ["localhost", "vercel.app", "ayedot.com"],
+    domains: ["localhost", "vercel.app", "ayedot.com", "render.com"],
   },
 };
