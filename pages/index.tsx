@@ -43,10 +43,10 @@ const Home: NextPage = () => {
           name="description"
           content={`VS code style developer portfolio`}
         />
-        <link rel="canonical" href={"https://www.rajsavaliya.com"} />
+        <link rel="canonical" href={"https://helios-yamet.onrender.com"} />
         <meta property="og:locale" content="en_US" />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content={"https://www.rajsavaliya.com"} />
+        <meta property="og:url" content={"https://helios-yamet.onrender.com"} />
         <meta property="og:site_name" content="Your Name" />
         <meta property="og:image" content="/mainthumbnail.PNG" />
         <meta property="og:image:width" content="1040" />
@@ -194,7 +194,7 @@ const Home: NextPage = () => {
                   </Link>
                 </div>
                 <div className="mt-4">
-                  <Link passHref target="_blank" href="https://github.com/SRX9">
+                  <Link passHref target="_blank" href="https://github.com/helios-yamet">
                     <div
                       className="cursor-pointer w-full flex justify-start items-center pl-2 pr-2 p-1 
                         rounded-sm gap-2 border-b  border-blue-500 "

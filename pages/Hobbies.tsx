@@ -25,10 +25,10 @@ const Hobbies: NextPage = () => {
           name="description"
           content={`What i like to do the most in my spare time.`}
         />
-        <link rel="canonical" href={"https://www.rajsavaliya.com"} />
+        <link rel="canonical" href={"https://helios-yamet.onrender.com"} />
         <meta property="og:locale" content="en_US" />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content={"https://www.rajsavaliya.com"} />
+        <meta property="og:url" content={"https://helios-yamet.onrender.com"} />
         <meta property="og:site_name" content="Your Name" />
         <meta property="og:image" content="/mainthumbnail.PNG" />
         <meta property="og:image:width" content="1040" />

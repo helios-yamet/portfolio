@@ -1,8 +1,7 @@
-// Replace below project details with your project details. Add all your projects details here as per below object structure, and it will populate it in projects sections.
 export const projectsdata = () => [
   {
-    title: "Project Title",
-    name: "Project Name",
+    title: "Easily Share files and folders with your friends",
+    name: "Xport - File Transfer Service",
     banner: "/xporthumb.png",
     skills: [
       "JavaScript",
@@ -14,16 +13,13 @@ export const projectsdata = () => [
       "CSS3",
     ],
     description: `An Online Service to easily Share large or small files of any format, with anyone around the world. `,
-    //(Optional) Live link of your project, if hosted
     link: null,
-    github: "https://github.com/SRX9/Xport---OOSE-Project",
-    // Logo Image of your project
+    github: "https://github.com/helios-yamet/Xport---OOSE-Project",
     logo: "/xportlogo.jpg",
     features: [
       "Upload and share any file of size upto 1GB of any format like text file, images, videos, application, pdf, excel, ppt and more.",
       "Other important sections like User Profile, Tracking of number of files shared, amount of data transported, authentication and more.",
     ],
-    // Screenshots of your project
     snapshots: [
       "/xport/Send1-min.png",
       "/xport/send2-min.png",
@@ -52,6 +48,63 @@ export const projectsdata = () => [
         title: "fireflow - Anonymous Chat Rooms ",
         description: `Instant messaging webapp to chat with people in
                           groups.`,
+      },
+    ],
+  },
+  {
+    title: "A Modern Day Short-Blogging Platform",
+    name: "AyeDot.com",
+    banner: "/ayethumb.png",
+    skills: [
+      "TypeScript",
+      "Next.js",
+      "Redis",
+      "Node.js",
+      "Express",
+      "Serverless",
+      "CassandraDB",
+      "MongoDB",
+      "Postgre SQL Database",
+      "AWS",
+      "Cloudflare",
+      "CSS3",
+      "Tailwind",
+    ],
+    description: `Share your ideas and stories with the world on AyeDot - the platform for discovering and sharing exciting, informative content in form of multimedia short format mini blogs`,
+    link: "/ayedot.com",
+    github: null,
+    logo: "https://www.rajsavaliya.com/_next/image?url=%2FAyeHighLogo.webp&w=48&q=75",
+    features: [
+      "Easy Creation and Publishing of Short Format Mini Blogs using easy to user block based editor",
+      "Creator Room for better content creation process",
+      "Auto SEO Optimized Content",
+      "Responsive and Mobile Friendly Layout.",
+      "Engagement actions like Comments, Replies, Likes, Save, Shares on Miniblogs.",
+      "Subscribe functionality for Personalized Feed",
+      "Important Pages like User Channel, Studio, Creator Room, Block Base Editor, Trending, Saved, Settings, and many more",
+    ],
+    snapshots: [
+      "/ayedot/ayedotmain-min",
+      "/ayedot/blogpage-min",
+      "/ayedot/profileayedot-min",
+      "/ayedot/registerayedot-min",
+      "/ayedot/trendingayedot-min",
+    ],
+    height: 1900,
+    others: [
+      {
+        link: "/Projects/1",
+        thumbnail: "/ayefanthumb.jpg",
+        logo: "/ayefanlogo.jpg",
+        title: "Ayefan - Social Media Platform",
+        description: `Social media Webapp to connect, share your thoughts and feelings and communicate`,
+      },
+      {
+        link: "/Projects/2",
+        thumbnail: "/onwosthumb.jpg",
+        logo: "/onwoslogo.jpg",
+        title: "Onwos - Online Media Service Platform",
+        description: `On Demand Media Service to stream and also create web series.`,
       },
     ],
   },
