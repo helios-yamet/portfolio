@@ -40,15 +40,11 @@ const Learning: NextPage = () => {
                     <h1 className="lg:text-5xl text-gray-100 font-bold leading-tight text-3xl">
                       Goal Is To Be a Senior
                     </h1>
-                    <h1 className="lg:text-5xl text-gray-100 font-bold leading-tight text-3xl">
-                      Grow My Skills
-                    </h1>
-                    <h1 className="lg:text-5xl text-gray-100 font-bold leading-tight text-3xl">
-                      Grow My Career
-                    </h1>
-                    <h1 className="lg:text-5xl text-gray-100 font-bold leading-tight text-3xl">
-                      Grow My Community
-                    </h1>
+                    <li>
+                      <ul>• Grow My Skills</ul>
+                      <ul>• Grow My Career</ul>
+                      <ul>• Grow My Community</ul>
+                    </li>
                   </div>
                 </div>
               </div>
