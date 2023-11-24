@@ -56,6 +56,10 @@ export const skilldata = () => [
         icon: "https://img.icons8.com/?size=48&id=nvrsJYs7j9Vb&format=png",
       },
       {
+        title: "Shopify",
+        icon: "https://img.icons8.com/?size=48&id=uSHYbs6PJfMT&format=png",
+      },
+      {
         title: "Tailwind",
         icon: "https://img.icons8.com/?size=48&id=CIAZz2CYc6Kc&format=png",
       },
@@ -66,6 +70,10 @@ export const skilldata = () => [
       {
         title: "JQuery",
         icon: "https://img.icons8.com/ios-filled/150/000000/jquery.png",
+      },
+      {
+        title: "Figma",
+        icon: "https://img.icons8.com/?size=48&id=8gfeOoqrHqJU&format=gif",
       },
       {
         title: "Redux",
