@@ -21,7 +21,7 @@ export const projectsdata = () => [
     description: `Share your ideas and stories with the world on AyeDot - the platform for discovering and sharing exciting, informative content in form of multimedia short format mini blogs`,
     link: "/ayedot.com",
     github: null,
-    logo: "ayelogo.jpg",
+    logo: "ayecirclelogo.png",
     features: [
       "Easy Creation and Publishing of Short Format Mini Blogs using easy to user block based editor",
       "Creator Room for better content creation process",
@@ -181,7 +181,7 @@ export const projectsdata = () => [
   {
     title: "Instant messaging Webapp to chat with people in groups",
     name: "fireflow - Chat Rooms",
-    banner: "/onwosthumb.jpg",
+    banner: "/firflowthumb.jpg",
     skills: [
       "JavaScript",
       "Node.js",
@@ -194,7 +194,7 @@ export const projectsdata = () => [
     description: `An Online anonymous temporary chat rooms platform that lets users create private chats rooms with secret codes and allows people to chat in groups. It is fully secured and anonymous as nothing is stored on the server. Everything is erased about you as soon as you log out.`,
     link: null,
     github: "https://github.com/helios-yamet/fireflow-chat-rooms",
-    logo: "/onwoslogo.jpg",
+    logo: "/firelogo.jpg",
     features: [
       "Create Anonymous temporary chat rooms with secret access codes.",
       "Group chatting with tracking how many people are online in the chat room.",
@@ -202,16 +202,16 @@ export const projectsdata = () => [
     ],
     snapshots: [
       "/fireflow/firefloe123-min.png",
-      "fireflow/homefire-min.png",
-      "fireflow/createroiom-min.png",
-      "fireflow/firef1-min.png",
-      "fireflow/joinroom-min.png",
+      "/fireflow/homefire-min.png",
+      "/fireflow/createroiom-min.png",
+      "/fireflow/firef1-min.png",
+      "/fireflow/joinroom-min.png",
     ],
     height: 1900,
     others: [
       {
         link: "/Projects/6",
-        thumbnail: "/xportthumb.jpg",
+        thumbnail: "/xporthumb.png",
         logo: "/xportlogo.jpg",
         title: "Xport - File Transfer Service",
         description: `A webapp to wasily share large file over the internet with your friends.`,
@@ -219,7 +219,7 @@ export const projectsdata = () => [
       {
         link: "/Projects/1",
         thumbnail: "/ayethumb.jpg",
-        logo: "/ayelogo.jpg",
+        logo: "/ayecirclelogo.png",
         title: "Ayedot - Short Blogging Platform",
         description: `Bloging Platform to Create and Publish Mini Blogs.`,
       },
@@ -276,7 +276,7 @@ export const projectsdata = () => [
       },
       {
         link: "/Projects/6",
-        thumbnail: "/xportthumb.jpg",
+        thumbnail: "/xporthumb.png",
         logo: "/xportlogo.jpg",
         title: "Xport - File Transfer Service",
         description: `A webapp to wasily share large file over the internet with your friends.`,

@@ -21,7 +21,7 @@ const Startup: NextPage = () => {
         <meta property="og:locale" content="en_US" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content={"https://helios-yamet.onrender.com"} />
-        <meta property="og:site_name" content="Your Name" />
+        <meta property="og:site_name" content="Trevion Cannon" />
         <meta property="og:image" content="/mainthumbnail.PNG" />
         <meta property="og:image:width" content="1040" />
         <meta property="og:image:height" content="600" />

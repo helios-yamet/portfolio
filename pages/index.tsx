@@ -27,7 +27,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Your Name | Software Development Engineer</title>
+        <title>Trevion Cannon | Software Development Engineer</title>
         <meta
           name="description"
           content={`VS code style developer portfolio`}
@@ -36,7 +36,7 @@ const Home: NextPage = () => {
         <meta
           property="og:title"
           content={
-            "Your Name - Software Development Engineer &amp; Product Developer"
+            "Trevion Cannon - Software Development Engineer &amp; Product Developer"
           }
         />
         <meta
@@ -47,7 +47,7 @@ const Home: NextPage = () => {
         <meta property="og:locale" content="en_US" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content={"https://helios-yamet.onrender.com"} />
-        <meta property="og:site_name" content="Your Name" />
+        <meta property="og:site_name" content="Trevion Cannon" />
         <meta property="og:image" content="/mainthumbnail.PNG" />
         <meta property="og:image:width" content="1040" />
         <meta property="og:image:height" content="600" />
@@ -62,7 +62,7 @@ const Home: NextPage = () => {
           <div className="flex flex-col mt-1 md:flex-row md:space-x-4">
             <div className="flex-1 mb-4 md:mb-0 ">
               <div className="p-2">
-                <h2 className="text-5xl font-sans	 mb-2 ">Your Name</h2>
+                <h2 className="text-5xl font-sans	 mb-2 ">Trevion Cannon</h2>
                 <h3 className="text-2xl font-sans	 text-gray-500 pt-1 mb-2">
                   Software Development Engineer
                 </h3>
@@ -157,7 +157,7 @@ const Home: NextPage = () => {
                         <p className="text-blue-500 cursor-pointer text-sm pb-2 font-sans flex justify-start gap-1 items-center">
                           {item?.slice(1)}{" "}
                           <p className="text-gray-300 pl-2 text-sm ">
-                            E:/RajSavaliya{item}
+                            https://helios-yamet.onrender.com{item}
                           </p>
                         </p>
                       </Link>
@@ -176,7 +176,7 @@ const Home: NextPage = () => {
                   <Link
                     passHref
                     target="_blank"
-                    href="https://www.linkedin.com/in/savaliya-raj"
+                    href="https://www.linkedin.com/in/trevion-cannon"
                   >
                     <div
                       className="cursor-pointer w-full flex justify-start items-center pl-2 pr-2 p-1 
@@ -206,27 +206,6 @@ const Home: NextPage = () => {
                       <img src="https://img.icons8.com/3d-fluency/28/null/github.png" />{" "}
                       <p className="text-gray-200 text-sm  font-sans flex justify-start items-center">
                         Github Page
-                      </p>
-                    </div>
-                  </Link>
-                </div>
-                <div className="mt-4">
-                  <Link
-                    passHref
-                    target="_blank"
-                    href="https://twitter.com/s_r_x_9"
-                  >
-                    <div
-                      className="cursor-pointer w-full flex justify-start items-center pl-2 pr-2 p-1 
-                        rounded-sm gap-2 border-b  border-blue-500 "
-                      style={{
-                        backgroundColor: "#262626",
-                        borderBottomWidth: "0.3rem",
-                      }}
-                    >
-                      <img src="https://img.icons8.com/color/28/null/twitter--v1.png" />{" "}
-                      <p className="text-gray-200 text-sm  font-sans flex justify-start items-center">
-                        Twitter Handle
                       </p>
                     </div>
                   </Link>
